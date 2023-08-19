@@ -330,7 +330,7 @@ round(sum(r.avg_rating * r.total_votes) /
   ****taapsee pannu , kriti sanon, divya dutta, Sradda Kapoor,
   Krithi karbanda ***
   
-  #########SEGMENT--7##########
+  #########SEGMENT--6 #########
 
 ##QUESTION--1-- -	Classify thriller movies based on average ratings into different categories.
  
@@ -427,7 +427,7 @@ round(sum(r.avg_rating * r.total_votes) /
  ###***SANGEETHA Bhat , fatmire sahiti ,
       ###Adriyana matoshi are top three actresses***
 
-######QUESTION - 5 -	Retrieve details for the top nine directors based on the number of movies, including average inter-movie duration, ratings, and more.
+######QUESTION - 6 -	Retrieve details for the top nine directors based on the number of movies, including average inter-movie duration, ratings, and more.
 
 with top_directors as 
 ( select director_id,director_name
